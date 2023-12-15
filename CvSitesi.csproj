@@ -67,12 +67,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="profile_foto.jpg" />
     <Content Include="Web.config" />
+    <Content Include="Anasayfa.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MasterPage1.Master.cs">
+      <DependentUpon>MasterPage1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage1.Master.designer.cs">
+      <DependentUpon>MasterPage1.Master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Anasayfa.aspx.cs">
+      <DependentUpon>Anasayfa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.aspx.designer.cs">
+      <DependentUpon>Anasayfa.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="MasterPage1.Master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

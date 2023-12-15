@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage1.master.cs" Inherits="CvSitesi.MasterPage1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <asp:ContentPlaceHolder ID="headsection" runat="server">
+        <title>MasterPage</title>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:HyperLink NavigateUrl="~/Anasayfa.aspx" runat="server" Text="Anasayfa"/>
+        &nbsp;&nbsp;
+        <%--<asp:HyperLink NavigateUrl="" runat="server" Text="Hakkımda"/>
+        &nbsp;&nbsp;
+        <asp:HyperLink NavigateUrl="" runat="server" Text="Blog"/>
+        &nbsp;&nbsp;
+        <asp:HyperLink NavigateUrl="" runat="server" Text="Yaptığım Projeler"/>
+        &nbsp;&nbsp;
+        <asp:HyperLink NavigateUrl="" runat="server" Text="Proje Hakkında Ve Proje Kodları"/>--%>
+        <br />
+        <br />
+        <div>
+            <asp:ContentPlaceHolder ID="divSection" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
