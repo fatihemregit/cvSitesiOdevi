@@ -2,12 +2,6 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="headsection" runat="server">
     <title>Anasayfa</title>
-    <style>
-        .onemli{
-            font-style:italic;
-            color:red;
-        }
-    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="divSection" runat="server">
     <h1>İnternet Programcılığı 1 dersi dönem ödevi</h1>

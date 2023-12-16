@@ -4,18 +4,24 @@
 
 <html>
 <head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <asp:ContentPlaceHolder ID="headsection" runat="server">
         <title>MasterPage</title>
     </asp:ContentPlaceHolder>
+    <style>
+        .onemli{
+            font-style:italic;
+            color:red;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
-        <asp:HyperLink NavigateUrl="~/Anasayfa.aspx" runat="server" Text="Anasayfa"/>
+        <asp:HyperLink NavigateUrl="~/Anasayfa.aspx" runat="server" Text="Anasayfa" />
         &nbsp;&nbsp;
-        <%--<asp:HyperLink NavigateUrl="" runat="server" Text="Hakkımda"/>
+        <asp:HyperLink NavigateUrl="~/Hakkimda.aspx" runat="server" Text="Hakkımda" />
         &nbsp;&nbsp;
-        <asp:HyperLink NavigateUrl="" runat="server" Text="Blog"/>
+       <%-- <asp:HyperLink NavigateUrl="" runat="server" Text="Blog"/>
         &nbsp;&nbsp;
         <asp:HyperLink NavigateUrl="" runat="server" Text="Yaptığım Projeler"/>
         &nbsp;&nbsp;

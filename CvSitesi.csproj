@@ -67,11 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Hakkimda.aspx" />
     <Content Include="profile_foto.jpg" />
     <Content Include="Web.config" />
     <Content Include="Anasayfa.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Hakkimda.aspx.cs">
+      <DependentUpon>Hakkimda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hakkimda.aspx.designer.cs">
+      <DependentUpon>Hakkimda.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MasterPage1.Master.cs">
       <DependentUpon>MasterPage1.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
