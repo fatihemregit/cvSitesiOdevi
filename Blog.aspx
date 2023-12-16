@@ -10,5 +10,5 @@
     </asp:Label>
     &nbsp;&nbsp;
     <asp:Button ID="goToblogWebsiteButton" Text="Blog Sayfasına git" runat="server" OnClick="goToblogWebsiteButton_Click"/>
-    <p>Eğer Button çalışmaz ise pop-up lara izin verdiğinizden emin olun</p>
+    <p>Eğer Button <span class="onemli">çalışmaz ise pop-up lara izin verdiğinizden</span> emin olun</p>
 </asp:Content>

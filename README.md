@@ -15,11 +15,7 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 ## Proje Günlüğü
 
 ### Bu committe yapılan işlemler
-+ sayfa açıklama yazısından (ör:.... sayfası) sonra hr etiketi eklendi.
-+ blog sayfası içeriği kodlandı.İçerik kodlanırken asp:Button etiketi kullanıldı
-+ blog sayfasındaki asp:button a arka plan kodu yazılarak(response.write();) blog websitesine gidilmesi(medium) sağlandı
-+ blog sayfası arka plan kodlarında "Response.write();" komutu kullanılırken script etiketi arasına js kodu yazılarak yeni sayfada blog websitesi açılması sağlandı.(böylelike Response.write() a html kodu yazılması konusu pekiştirildi)
-
++ blog sayfasında önemli yazıya span etiketi kullanarak "onemli" css class ı atandı
 
 ### Gün 1 (15.12.2023)
 + Visual Studio Üzerinden Proje Oluşturuldu
@@ -39,5 +35,5 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + blog sayfası içeriği kodlandı.İçerik kodlanırken asp:Button etiketi kullanıldı
 + blog sayfasındaki asp:button a arka plan kodu yazılarak(response.write();) blog websitesine gidilmesi(medium) sağlandı
 + blog sayfası arka plan kodlarında "Response.write();" komutu kullanılırken script etiketi arasına js kodu yazılarak yeni sayfada blog websitesi açılması sağlandı.(böylelike Response.write() a html kodu yazılması konusu pekiştirildi)
-
-+ Yapılacaklar
++ blog sayfasında önemli yazıya span etiketi kullanarak "onemli" css class ı atandı
+Yapılacaklar
