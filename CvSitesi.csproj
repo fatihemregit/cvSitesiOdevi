@@ -72,6 +72,7 @@
     <Content Include="profile_foto.jpg" />
     <Content Include="Web.config" />
     <Content Include="Anasayfa.aspx" />
+    <Content Include="YaptigimProjeler.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Blog.aspx.cs">
@@ -102,6 +103,13 @@
     </Compile>
     <Compile Include="Anasayfa.aspx.designer.cs">
       <DependentUpon>Anasayfa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YaptigimProjeler.aspx.cs">
+      <DependentUpon>YaptigimProjeler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YaptigimProjeler.aspx.designer.cs">
+      <DependentUpon>YaptigimProjeler.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
