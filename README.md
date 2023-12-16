@@ -37,12 +37,13 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + MasterPage1.master dosyasında head etiketi arasına style etiketi eklendi
 + Heryerde kullanılan css classları MasterPage1.master dosyasındaki head etiketi arasındaki style etiketinin içine yazıldı
 + sayfa açıklama yazısından (ör:.... sayfası) sonra hr etiketi eklendi.
-+ blog sayfası içeriği kodlandı.İçerik kodlanırken asp:Button etiketi kullanıldı
++ blog sayfası oluşturuldu(Blog.aspx) ve içeriği kodlandı.İçerik kodlanırken asp:Button etiketi kullanıldı
 + blog sayfasındaki asp:button a arka plan kodu yazılarak(response.write();) blog websitesine gidilmesi(medium) sağlandı
 + blog sayfası arka plan kodlarında "Response.write();" komutu kullanılırken script etiketi arasına js kodu yazılarak yeni sayfada blog websitesi açılması sağlandı.(böylelike Response.write() a html kodu yazılması konusu pekiştirildi)
 + blog sayfasında önemli yazıya span etiketi kullanarak "onemli" css class ı atandı
-+ yaptığım projeler sayfası içeriği kodlandı(YaptigimProjeler.aspx)
++ yaptığım projeler sayfası oluşturuldu(YaptigimProjeler.aspx) ve içeriği kodlandı
 + yaptığım projeler sayfasının içeriği kodlanırken "table" etiketi kullanıldı
 + yaptığım projeler sayfasındaki proje linkleri "a" etiketi kullanılarak tıklanılabilir yapıldı
 <br />
 Yapılacaklar
++ Bu Proje Hakkında Ve Proje Kodları(projeHakkında.aspx) sayfasının kodlanması
