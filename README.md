@@ -14,6 +14,7 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + javascript(js) kullanımı
 + cs dosyası(arka plan kodu) kullanımı
 + table etiketi kullanımı
++ a etiketi kullanımı
 ## Proje Günlüğü
 
 ### Bu committe yapılan işlemler
