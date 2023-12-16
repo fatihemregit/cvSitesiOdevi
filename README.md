@@ -10,13 +10,15 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + css kullanımı
 + asp:Image etiketi kullanımı
 + asp:Label etiketi kullanımı
++ asp:Button etiketi kullanımı
++ javascript(js) kullanımı
 ## Proje Günlüğü
 
 ### Bu committe yapılan işlemler
-+ Hakkımda Sayfası(Hakkimda.aspx) oluşturuldu ve içeriği kodlandı
-+ Hakımda Sayfasının içeriği kodlanırken html etiketleri dışında label etiketi ve image etiketi de kullanıldı
-+ MasterPage1.master dosyasında head etiketi arasına style etiketi eklendi
-+ Heryerde kullanılan css classları için MasterPage1.master dosyasındaki head etiketi arasındaki style etiketinin içine yazıldı
++ sayfa açıklama yazısından (ör:.... sayfası) sonra hr etiketi eklendi.
++ blog sayfası içeriği kodlandı.İçerik kodlanırken asp:Button etiketi kullanıldı
++ blog sayfasındaki asp:button a arka plan kodu yazılarak(response.write();) blog websitesine gidilmesi(medium) sağlandı
++ blog sayfası arka plan kodlarında "Response.write();" komutu kullanılırken script etiketi arasına js kodu yazılarak yeni sayfada blog websitesi açılması sağlandı.(böylelike Response.write() a html kodu yazılması konusu pekiştirildi)
 
 
 ### Gün 1 (15.12.2023)
@@ -33,6 +35,9 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + Hakımda Sayfasının içeriği kodlanırken html etiketleri dışında label etiketi ve image etiketi de kullanıldı
 + MasterPage1.master dosyasında head etiketi arasına style etiketi eklendi
 + Heryerde kullanılan css classları için MasterPage1.master dosyasındaki head etiketi arasındaki style etiketinin içine yazıldı
++ sayfa açıklama yazısından (ör:.... sayfası) sonra hr etiketi eklendi.
++ blog sayfası içeriği kodlandı.İçerik kodlanırken asp:Button etiketi kullanıldı
++ blog sayfasındaki asp:button a arka plan kodu yazılarak(response.write();) blog websitesine gidilmesi(medium) sağlandı
++ blog sayfası arka plan kodlarında "Response.write();" komutu kullanılırken script etiketi arasına js kodu yazılarak yeni sayfada blog websitesi açılması sağlandı.(böylelike Response.write() a html kodu yazılması konusu pekiştirildi)
 
-
-Yapılacaklar
++ Yapılacaklar

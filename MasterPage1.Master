@@ -21,11 +21,11 @@
         &nbsp;&nbsp;
         <asp:HyperLink NavigateUrl="~/Hakkimda.aspx" runat="server" Text="Hakkımda" />
         &nbsp;&nbsp;
-       <%-- <asp:HyperLink NavigateUrl="" runat="server" Text="Blog"/>
+        <asp:HyperLink NavigateUrl="~/Blog.aspx" runat="server" Text="Blog"/>
         &nbsp;&nbsp;
         <asp:HyperLink NavigateUrl="" runat="server" Text="Yaptığım Projeler"/>
         &nbsp;&nbsp;
-        <asp:HyperLink NavigateUrl="" runat="server" Text="Proje Hakkında Ve Proje Kodları"/>--%>
+        <asp:HyperLink NavigateUrl="" runat="server" Text="Proje Hakkında Ve Proje Kodları"/>
         <br />
         <br />
         <div>

@@ -5,6 +5,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="divSection" runat="server">
     <h1>Hakkımda Sayfası</h1>
+    <hr />
     <center>
         <%-- center etiketini kullanarak asp:Image etiketini ortaladık. --%>
         <asp:Image ImageUrl="~/profile_foto.jpg" runat="server" />

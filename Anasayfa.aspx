@@ -5,6 +5,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="divSection" runat="server">
     <h1>İnternet Programcılığı 1 dersi dönem ödevi</h1>
+    <hr />
     <p style="font-weight:bold">
         Projeyi kodlayan ve ödevin sahibi <span class="onemli">2022512043</span> okul numaralı Bilgisayar Programcılığı 1.öğretim 2.sınıf Öğrencisi <span class="onemli">Fatih emre KILINÇ</span> dır.
     </p>
