@@ -33,6 +33,8 @@
             <asp:ContentPlaceHolder ID="divSection" runat="server">
             </asp:ContentPlaceHolder>
         </div>
+        <hr />
+        <p style="font-weight:bold;color:red">2022512043 okul numaralı Fatih Emre KILINÇ Tarafından Kodlanmıştır</p>
     </form>
 </body>
 </html>

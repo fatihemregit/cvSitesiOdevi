@@ -18,10 +18,7 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 ## Proje Günlüğü
 
 ### Bu committe yapılan işlemler
-+ "Bu Proje Hakkında Ve Proje Kodları"(projeHakkinda.aspx) sayfası oluşturuldu ve içeriği kodlandı.
-+ projeHakkinda.aspx sayfasının içeriği kodlanırken projenin github linki eklendi.
-+ basit üstbarın hemen altına hr etiketi yazıldı.
-+ projeHakkinda.aspx sayfasının içeriği kodlanırken önemli yazılara ".onemli" css classı atandı.
++ Tüm sayfaların altına "2022512043 okul numaralı Fatih Emre KILINÇ Tarafından Kodlanmıştır" kısmı eklendi(MasterPage1.Master Dosyasına eklendiği için tüm sayfalara otomatikmen eklendi)
 
 ### Gün 1 (15.12.2023)
 + Visual Studio Üzerinden Proje Oluşturuldu
@@ -49,6 +46,7 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + "Bu Proje Hakkında Ve Proje Kodları"(projeHakkinda.aspx) sayfası oluşturuldu ve içeriği kodlandı.
 + projeHakkinda.aspx sayfasının içeriği kodlanırken projenin github linki eklendi.
 + basit üstbarın hemen altına hr etiketi yazıldı.
-+ projeHakkinda.aspx sayfasının içeriği kodlanırken önemli yazılara ".onemli" css classı atandı.		
++ projeHakkinda.aspx sayfasının içeriği kodlanırken önemli yazılara ".onemli" css classı atandı.
++ Tüm sayfaların altına "2022512043 okul numaralı Fatih Emre KILINÇ Tarafından Kodlanmıştır" kısmı eklendi(MasterPage1.Master Dosyasına eklendiği için tüm sayfalara otomatikmen eklendi)
 <br>
 Yapılacaklar
