@@ -45,7 +45,6 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + yaptığım projeler sayfası oluşturuldu(YaptigimProjeler.aspx) ve içeriği kodlandı
 + yaptığım projeler sayfasının içeriği kodlanırken "table" etiketi kullanıldı
 + yaptığım projeler sayfasındaki proje linkleri "a" etiketi kullanılarak tıklanılabilir yapıldı
-<br />
 ### Gün 3(17.12.2023)
 + "Bu Proje Hakkında Ve Proje Kodları"(projeHakkinda.aspx) sayfası oluşturuldu ve içeriği kodlandı.
 + projeHakkinda.aspx sayfasının içeriği kodlanırken projenin github linki eklendi.
