@@ -49,6 +49,6 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur
 + "Bu Proje Hakkında Ve Proje Kodları"(projeHakkinda.aspx) sayfası oluşturuldu ve içeriği kodlandı.
 + projeHakkinda.aspx sayfasının içeriği kodlanırken projenin github linki eklendi.
 + basit üstbarın hemen altına hr etiketi yazıldı.
-+ projeHakkinda.aspx sayfasının içeriği kodlanırken sönemli yazılara ".onemli" css classı atandı.		
++ projeHakkinda.aspx sayfasının içeriği kodlanırken önemli yazılara ".onemli" css classı atandı.		
 <br>
 Yapılacaklar
