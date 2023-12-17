@@ -26,7 +26,7 @@
         </tr>
         <tr>
             <td>Mobil Dental Otomasyonu (flutter)</td>
-            <td>Kendimi Geliştirmek için mobile özel olacak şekilde flutter dili ile yazdığım basit diş otomasyonu</td>
+            <td>Kendimi Geliştirmek için mobil e özel olacak şekilde flutter dili ile yazdığım basit diş otomasyonu</td>
             <td>
                 <a href="https://github.com/fatihemregit/mobil_dis_otomasyonu" target="_blank">
                     https://github.com/fatihemregit/mobil_dis_otomasyonu
@@ -35,7 +35,7 @@
         </tr>
         <tr>
             <td>Zil Programı</td>
-            <td>Python ile flask kütüphanesini kullanarak yaptığım. zil vakti geldiğinde otomatik tetiklenip zili çalan veya panel üzerinden tetiklenip zil çalan program</td>
+            <td>Python ile flask kütüphanesini kullanarak yaptığım zil vakti geldiğinde otomatik tetiklenip zili çalan veya panel üzerinden tetiklenip zil çalan program</td>
             <td>
                 <a href="https://github.com/fatihemregit/zil_programi" target="_blank">
                     https://github.com/fatihemregit/zil_programi

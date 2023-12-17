@@ -21,6 +21,5 @@
     <asp:Label ID="profilFotografiAciklamaYazisi" runat="server">
         Bu proje gördüğünüz gibi <span class="onemli">internet ortamında olduğu için</span> herkese erişilebilir bi durumdadır.Bu yüzden de bu profil fotoğrafını kullandım.
         <br />
-        Sosyal Medya hesaplarımda da gerçek profil fotoğrafımı kullanmıyorum
     </asp:Label>
 </asp:Content>
