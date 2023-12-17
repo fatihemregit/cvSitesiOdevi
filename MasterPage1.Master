@@ -25,7 +25,8 @@
         &nbsp;&nbsp;
         <asp:HyperLink NavigateUrl="~/YaptigimProjeler.aspx" runat="server" Text="Yaptığım Projeler"/>
         &nbsp;&nbsp;
-        <asp:HyperLink NavigateUrl="" runat="server" Text=" Bu Proje Hakkında Ve Proje Kodları"/>
+        <asp:HyperLink NavigateUrl="~/ProjeHakkinda.aspx" runat="server" Text=" Bu Proje Hakkında Ve Proje Kodları"/>
+        <hr />
         <br />
         <br />
         <div>
