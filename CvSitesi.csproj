@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Blog.aspx" />
+    <Content Include="Global.asax" />
     <Content Include="Hakkimda.aspx" />
     <Content Include="profile_foto.jpg" />
     <Content Include="ProjeHakkinda.aspx" />
@@ -82,6 +83,9 @@
     </Compile>
     <Compile Include="Blog.aspx.designer.cs">
       <DependentUpon>Blog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Hakkimda.aspx.cs">
       <DependentUpon>Hakkimda.aspx</DependentUpon>

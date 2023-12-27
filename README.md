@@ -14,10 +14,13 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur.
 + cs dosyası(arka plan kodu) kullanımı
 + table etiketi kullanımı
 + a etiketi kullanımı
++ Global asax kullanımı
++ session
 ## Proje Günlüğü
 
 ### Bu committe yapılan işlemler
-+ genel imla düzenlemesi
++ Ziyaretçi sayısı sisteminin ön yüzü kodlandı(label etiketi ve label etiketinin css kodunun yazılması)
++ Global asax ve session kavramı kullanılarak ziyaretçi sayısı kısmı arka yüzü kodlandı
 ### Gün 1 (15.12.2023)
 + Visual Studio Üzerinden Proje Oluşturuldu.
 + Kodları bulut sistemler üzerinde tutmak için private şekilde github repository si oluşturuldu.
@@ -47,4 +50,7 @@ Bu repository ise bu ödevinin kodlarını tutmak için oluşturulmuştur.
 + projeHakkinda.aspx sayfasının içeriği kodlanırken önemli yazılara ".onemli" css classı atandı.
 + Tüm sayfaların altına "2022512043 okul numaralı Fatih Emre KILINÇ Tarafından Kodlanmıştır" kısmı eklendi(MasterPage1.Master Dosyasına eklendiği için tüm sayfalara otomatikmen eklendi).
 <br>
+### Gün 4 (27.12.2023)
++ Ziyaretçi sayısı sisteminin ön yüzü kodlandı(label etiketi ve label etiketinin css kodunun yazılması)
++ Global asax ve session kavramı kullanılarak ziyaretçi sayısı kısmı arka yüzü kodlandı
 Yapılacaklar

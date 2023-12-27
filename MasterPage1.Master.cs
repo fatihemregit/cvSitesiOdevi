@@ -11,7 +11,7 @@ namespace CvSitesi
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            ziyaretciCounter.Text = Application["ziyaretciSayisi"].ToString();
         }
     }
 }

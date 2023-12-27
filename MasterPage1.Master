@@ -9,9 +9,16 @@
         <title>MasterPage</title>
     </asp:ContentPlaceHolder>
     <style>
-        .onemli{
+        /*GLOBAL CSS CLASSLARI(Heryerde kullanılan CSS classları)*/
+        .onemli {
+            font-style: italic;
+            color: red;
+        }
+        /*LOKAL CSS CLASSLARI(sadece bu dosyada kullanılan css classları)*/
+        .ziyaretci{
+            color:blue;
             font-style:italic;
-            color:red;
+            font-weight:bold;
         }
     </style>
 </head>
@@ -21,11 +28,11 @@
         &nbsp;&nbsp;
         <asp:HyperLink NavigateUrl="~/Hakkimda.aspx" runat="server" Text="Hakkımda" />
         &nbsp;&nbsp;
-        <asp:HyperLink NavigateUrl="~/Blog.aspx" runat="server" Text="Blog"/>
+        <asp:HyperLink NavigateUrl="~/Blog.aspx" runat="server" Text="Blog" />
         &nbsp;&nbsp;
-        <asp:HyperLink NavigateUrl="~/YaptigimProjeler.aspx" runat="server" Text="Yaptığım Projeler"/>
+        <asp:HyperLink NavigateUrl="~/YaptigimProjeler.aspx" runat="server" Text="Yaptığım Projeler" />
         &nbsp;&nbsp;
-        <asp:HyperLink NavigateUrl="~/ProjeHakkinda.aspx" runat="server" Text=" Bu Proje Hakkında Ve Proje Kodları"/>
+        <asp:HyperLink NavigateUrl="~/ProjeHakkinda.aspx" runat="server" Text=" Bu Proje Hakkında Ve Proje Kodları" />
         <hr />
         <br />
         <br />
@@ -34,7 +41,9 @@
             </asp:ContentPlaceHolder>
         </div>
         <hr />
-        <p style="font-weight:bold;color:red">2022512043 okul numaralı Fatih Emre KILINÇ Tarafından Kodlanmıştır</p>
+        <p style="font-weight: bold; color: red">2022512043 okul numaralı Fatih Emre KILINÇ Tarafından Kodlanmıştır</p>
+        <asp:Label ID="ziyaretciInformation" runat="server" CssClass="ziyaretci">Ziyaretçi Sayısı</asp:Label>
+        <asp:Label ID="ziyaretciCounter" runat="server" CssClass="ziyaretci"></asp:Label>
     </form>
 </body>
 </html>
